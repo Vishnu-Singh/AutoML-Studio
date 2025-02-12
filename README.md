@@ -24,5 +24,5 @@ This project is built with:
 ### Backend Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/automl-studio.git
+   git clone https://github.com/Vishnu-Singh/AutoML-Studio.git
    cd automl-studio/backend
